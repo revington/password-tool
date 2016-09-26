@@ -1,0 +1,17 @@
+{
+  "name": "Password tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Pedro Narciso García Revington <p.revington@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}
